@@ -59,5 +59,5 @@ Choose **one** of the following NLP projects:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/nlp-course-project.git
-   cd nlp-course-project
+   git clone https://github.com/Ahmetnasri/Project-NLP/tree/main
+   cd Project-NLP
