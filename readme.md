@@ -2,11 +2,6 @@
 
 This repository contains starter code and project templates for the **Natural Language Processing** course (DLBAIPNLP01) at IU.
 
-## Install
-
-   ```bash
-   pip install -r requirements.txt
-   ```
 ## 📌 Project Options
 
 Choose **one** of the following NLP projects:
@@ -66,3 +61,8 @@ Choose **one** of the following NLP projects:
    ```bash
    git clone https://github.com/Ahmetnasri/Project-NLP/tree/main
    cd Project-NLP
+
+2. Install the dependencies
+   ```bash
+   pip install -r requirements.txt
+   ```
